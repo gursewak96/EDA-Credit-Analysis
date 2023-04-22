@@ -1,4 +1,4 @@
-# Loan Credit and Risk Analysis
+# 💳 Loan Credit and Risk Analysis
 
 Applying Exploratory Data Analysis to find the driving factors that could lead to potential defaults or
 finding the pattern among variables indicating if the applicant would default the loan. Moreover, this 
@@ -53,3 +53,9 @@ There are four types of decision, when it comes to application.
 - Cancelled: The client cancelled the application sometime during approval.
 - Refused: Rejection from company for a loan application.
 - Unused offer:  client cancelled the loan but during different stage of the process.
+
+## Libraries Used
+- numpy
+- pandas
+- matplotlib
+- seaborn
