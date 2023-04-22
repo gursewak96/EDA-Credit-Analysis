@@ -4,6 +4,35 @@ Applying Exploratory Data Analysis to find the driving factors that could lead t
 finding the pattern among variables indicating if the applicant would default the loan. Moreover, this 
 EDA will ensure that applicants who are capable of repaying the loans are not rejected.
 
+## Index
+- Problem Statement
+- Section 1: Data sourcing and Understanding
+    - current application data type and structure
+    - previous application data type and structure
+- Section 2: Data cleaning
+    - Current application
+    - Data types and null values calculation
+    - Fixing rows and columns
+    - Impute or remove missing values
+    - Handling Outliers
+    - Standardising values
+    - Fixing Invalid values and filter data
+    - Previous application
+    - Data types and null values calculation
+    - Fixing rows and columns
+    - Impute or remove missing values
+    - Handling Outliers
+    - Standardising values
+    - Fixing Invalid values and filter data
+- Section 3: Analysis
+    - Current application
+    - Univariate Analysis
+    - Bivariate/Multivariate Analysis
+    - Merged dataset Analysis
+    - Univariate Analysis
+    - Bivariate/Multivariate Analysis
+- Section 4: Outcomes
+
 ## Problem Statement
 
 Loan providing company hesitates to provide loan to people who have either no or poor credit history. And there are two risk factors involved here:
